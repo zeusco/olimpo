@@ -6,7 +6,10 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-//apply the ruight comments
+//apply the right comments
+
+
+
 @Entity
 @Table
 class Person {
